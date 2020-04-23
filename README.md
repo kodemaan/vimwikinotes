@@ -1,5 +1,5 @@
 # My personal notes
 
-I should be the only one to see these
+These are various notes about various topics including aws, javascript, and others while taking various courses. Feel free to use these notes :) 
 
 [Index](index.md)
