@@ -1,0 +1,6 @@
+= Contents =
+
+== [[Daily Diary|diary/diary]] ==
+== [[Todos|dailytodos]] ==
+== [[Training notes|trainingnotes]] ==
+== [[Vimwiki cheat sheet|vimwikicheat/index]] ==
