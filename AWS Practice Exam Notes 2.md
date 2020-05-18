@@ -23,3 +23,5 @@ Amazon DLM (Data Lifecycle Manager) manages EBS snapshot creation
 AWS is responsible for the Physical network infrastructure for you, User access to the AWS environment is also your responsibility (eg. groups, users, etc.)
 
 Canary deployments allow specifying the percentage of traffic shifted to your updated lambda function version before the remaining traffic is shifted in the second increment
+
+Left off on Question 20 of the practice exam review
